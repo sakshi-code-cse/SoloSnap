@@ -22,7 +22,7 @@ The application combines advanced capture technology with comprehensive accessib
 - **Format Options** - PNG, JPEG, and TIFF output formats
 
 ### Screen Recording
-- **Dual Engine Support** - QuickTime and ScreenCaptureKit integration
+- **Dual Engine Support** - QuickTime and MobilityCore integration
 - **Flexible Targets** - Record main display, current display, or all displays
 - **High Quality Output** - MOV format with H.264 encoding
 - **Audio Recording** - System audio and microphone capture options
